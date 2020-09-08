@@ -1,0 +1,13 @@
+:host {
+    display: inline-block;
+}
+
+img {
+    padding: 2px 3px 0px 1px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

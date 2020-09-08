@@ -1,0 +1,14 @@
+{
+  "entries": [
+    "./components/gw2-coin/gw2-coin.js",
+    "./components/gw2-item/gw2-item.js",
+    "./components/gw2-price/gw2-price.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.17.3",
+    "typescriptVersion": "3.9.7"
+  },
+  "collections": [],
+  "bundles": []
+}

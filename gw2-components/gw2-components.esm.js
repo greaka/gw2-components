@@ -1,0 +1,1 @@
+import{b as e}from"./p-9ce059dd.js";import{p as i}from"./p-beb6dd0b.js";i().then(i=>e([["p-9c92e49e",[[1,"gw2-price",{itemId:[2,"item-id"],buy:[4],tptax:[2],tax:[2]}],[1,"gw2-item",{itemId:[2,"item-id"],currency:[4],size:[1]}],[1,"gw2-coin",{value:[2]}]]]],i));

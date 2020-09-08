@@ -1,0 +1,15 @@
+:host {
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
+    margin-top: 1px;
+    margin-right: 3px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
