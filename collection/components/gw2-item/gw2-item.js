@@ -8,7 +8,7 @@ export class Gw2Item {
     async componentWillRender() {
         try {
             this.item = (await api.queue(this.currency ? api.currencies() : api.items(), [this.itemId]))[0];
-            this.icon = this.item.icon.replace('https://render.guildwars2.com/file/', 'https://darthmaim-cdn.de/gw2treasures/icons/').replace('.png', '-' + this.size + 'px.png');
+            this.icon = this.item.icon.replace('https://render.guildwars2.com/file/', 'https://icons-gw2.darthmaim-cdn.de/').replace('.png', '-' + this.size + 'px.png');
         }
         catch (_a) { }
     }
